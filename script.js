@@ -109,4 +109,4 @@ function prompt() {
   });
 }
 
-prompt(); // Start prompting for commands
+prompt();
